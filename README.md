@@ -18,6 +18,11 @@ EJEMPLO DE TÍTULO
 ### Título 3
 
 EJEMPLO DE CURSIVA, NEGRITA Y TACHADO
-## Sección
-~~Esto es un ejemplo de texto~~
 
+~~Esto es un ejemplo de texto~~
+*Esto está en itálica*
+**Esto es negrita**
+__negrita__
+```
+npm install
+```
